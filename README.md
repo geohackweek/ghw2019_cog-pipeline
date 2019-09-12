@@ -2,7 +2,7 @@
 
 WIP for generating COGs for different datasources and visualizing them using a dynamic tiler API.
 
-Based off work of @vincentsarago
+Based off work of [@vincentsarago](https://github.com/vincentsarago)
 
 Planned architecture:
 
