@@ -1,0 +1,8 @@
+.DS_Store
+.cache/
+*.cog.tif
+*.tif.aux.xml
+.terraform/
+.ipynb_checkpoints/
+package.zip
+terraform.tfstate*
