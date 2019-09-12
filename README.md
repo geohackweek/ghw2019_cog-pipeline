@@ -14,7 +14,7 @@ Potential target datasets:
 * [MUR SST](https://podaac-tools.jpl.nasa.gov/drive/files/allData/ghrsst/data/GDS2/L4/GLOB/JPL/MUR/v4.1)
 * [Sentinnel](https://registry.opendata.aws/sentinel-2/)
 * Some vector and point data?
-* SUPERsnow_depth (maybe)
+* SUPERsnow_depth (maybe, privacy concerns)
 
 Current considerations:
 
