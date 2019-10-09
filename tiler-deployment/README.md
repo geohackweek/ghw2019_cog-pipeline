@@ -27,6 +27,7 @@ or
 
     $ brew install terraform
     # Set ${AWS_ACCESS_KEY_ID} and ${AWS_SECRET_ACCESS_KEY} in your env
+
     $ terraform init
     $ terraform apply --var region=us-east-1
 

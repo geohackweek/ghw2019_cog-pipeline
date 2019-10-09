@@ -6,3 +6,5 @@
 .ipynb_checkpoints/
 package.zip
 terraform.tfstate*
+*.tif
+*.nc
